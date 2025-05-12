@@ -1,0 +1,16 @@
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\obj\Debug\net5.0\OOP_Mid_Test_Ran.csproj.AssemblyReference.cache
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\obj\Debug\net5.0\OOP_Mid_Test_Ran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\obj\Debug\net5.0\OOP_Mid_Test_Ran.AssemblyInfoInputs.cache
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\obj\Debug\net5.0\OOP_Mid_Test_Ran.AssemblyInfo.cs
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\obj\Debug\net5.0\OOP_Mid_Test_Ran.csproj.CoreCompileInputs.cache
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\bin\Debug\net5.0\OOP_Mid_Test_Ran.exe
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\bin\Debug\net5.0\OOP_Mid_Test_Ran.deps.json
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\bin\Debug\net5.0\OOP_Mid_Test_Ran.runtimeconfig.json
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\bin\Debug\net5.0\OOP_Mid_Test_Ran.runtimeconfig.dev.json
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\bin\Debug\net5.0\OOP_Mid_Test_Ran.dll
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\bin\Debug\net5.0\ref\OOP_Mid_Test_Ran.dll
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\bin\Debug\net5.0\OOP_Mid_Test_Ran.pdb
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\obj\Debug\net5.0\OOP_Mid_Test_Ran.dll
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\obj\Debug\net5.0\ref\OOP_Mid_Test_Ran.dll
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\obj\Debug\net5.0\OOP_Mid_Test_Ran.pdb
+C:\Users\Ran\source\repos\OOP_Mid_Test_Ran\OOP_Mid_Test_Ran\obj\Debug\net5.0\OOP_Mid_Test_Ran.genruntimeconfig.cache
